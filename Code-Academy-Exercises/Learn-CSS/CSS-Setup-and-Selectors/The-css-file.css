@@ -1,0 +1,7 @@
+p {
+      font-family: Arial;
+    }
+
+/* In this exercise, I moved the CSS styles in the HTML code into its
+own stylesheet. This allows me to seperate the CSS code from the HTML
+code. */

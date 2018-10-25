@@ -1,0 +1,10 @@
+p {
+      font-family: Arial;
+    }
+
+h1 {
+  color: maroon;
+}
+
+/* Here we added a new tag allowing me to style the h1 element. The CSS tag is
+used to identify the elements you would like to style. */

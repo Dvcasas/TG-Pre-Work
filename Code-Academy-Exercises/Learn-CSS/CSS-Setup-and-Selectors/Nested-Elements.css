@@ -1,0 +1,38 @@
+p {
+      font-family: Arial;
+    }
+
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.description h5 {
+  color: teal;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color: gray;
+}
+
+/* You can target nested elements by chaining selectors. In this example, I
+selected h5 headers but only thos in elements with the class description. */

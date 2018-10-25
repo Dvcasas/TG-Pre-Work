@@ -1,0 +1,15 @@
+p {
+      font-family: Arial;
+    }
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+/* The class name is used to identify individual items or groups of elements
+that have been given a class id. This can then be referenced in the CSS
+and styled accordingly. */

@@ -1,0 +1,35 @@
+p {
+      font-family: Arial;
+    }
+
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color: gray;
+}
+
+/* You can further specify the selector by chaining them together. In this
+example, I combined a class and tag selector to style only h2 headers which
+contained the class destination. */
