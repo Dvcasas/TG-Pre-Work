@@ -1,0 +1,3 @@
+/* The Box Model has some quirks that can lead to difficult design. Because the
+all the attributes are added together, the size of elements can be odd and
+difficult to work with by having to calculate a particular elements dimensions.
