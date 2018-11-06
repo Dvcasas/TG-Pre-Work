@@ -1,0 +1,2 @@
+/* Javascript has built it array methods than can be called to iterate through
+arrays. This saves time over coding a loop to do it. */

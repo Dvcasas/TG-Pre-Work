@@ -1,0 +1,3 @@
+/* AJAX allows requests to made after the initial page load. XHR functions
+similarly to that of AJAX. Using the XMLHttpRequest method to pass in the
+GET keyword and url to send a request and a listener to recieve the response. */

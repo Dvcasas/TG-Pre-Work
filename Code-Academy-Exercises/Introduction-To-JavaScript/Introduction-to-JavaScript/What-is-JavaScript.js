@@ -1,0 +1,3 @@
+/* Javascript is a coding language that is designed to run in a web browser. It
+is the foundation for the dynamic behavior of most web pages allowing the
+developer to build web sites like programs. */

@@ -1,0 +1,8 @@
+{
+  "presets": ["env"]
+}
+
+/*
+Couldnt retrieve the file by running the terminal since it won't load. :(
+You can specify the version of javasript using the .babelrc file.
+*/

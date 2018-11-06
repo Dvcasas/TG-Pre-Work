@@ -1,0 +1,2 @@
+/* This next section will focus on how the scope effects accessibility. Scope
+determines when and how something can be used or called. */

@@ -1,0 +1,3 @@
+/* A function is a reusable block of code that performs a repetitive task. This
+can be extremely helpful when you have to right the safe functional code multiple
+times. */

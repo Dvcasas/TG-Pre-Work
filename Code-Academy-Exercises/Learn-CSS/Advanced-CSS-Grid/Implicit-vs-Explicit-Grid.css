@@ -1,0 +1,4 @@
+/* So far, I have been explicitly defining the grid by setting its demensions.
+In some cases this is acceptable but if there are variable amounts of items an
+implicit grid would make more sense. The implicit grid behavior will be
+set and the content will fill accordingly. */

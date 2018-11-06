@@ -1,0 +1,2 @@
+/* A loop is a logic tool that runs until a particular condition is met. It is
+very realistic to create a looping statement that will never end. */

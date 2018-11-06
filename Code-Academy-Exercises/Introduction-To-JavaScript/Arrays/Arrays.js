@@ -1,0 +1,1 @@
+/* Arrays are like lists of data. They hold data in each index. */

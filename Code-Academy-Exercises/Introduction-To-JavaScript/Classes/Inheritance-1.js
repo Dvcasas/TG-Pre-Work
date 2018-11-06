@@ -1,0 +1,3 @@
+/* Inheritance is the structural idea that classes can take on the properties
+of a class it inherits from. A class inheriting is considered the child where
+the inherited class is the parent. or superclass. */
